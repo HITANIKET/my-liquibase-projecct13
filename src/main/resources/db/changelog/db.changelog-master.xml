@@ -8,5 +8,6 @@
     <!-- Include changelog files -->
     <include file="001-create-users-table.xml" relativeToChangelogFile="true"/>
     <include file="002-create-orders-table.xml" relativeToChangelogFile="true"/>
-
+    <include file="001-create-users-table copy.xml" relativeToChangelogFile="true"/>
+    <include file="002-create-orders-table copy.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>
